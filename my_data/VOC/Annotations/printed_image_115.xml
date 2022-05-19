@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mixed</folder>
+	<filename>printed_image_115.png</filename>
+	<path>C:\Users\d.shukiraliyev\Desktop\Table_detection\data\mixed\printed_image_115.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>648</width>
+		<height>710</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bordered</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>338</ymin>
+			<xmax>407</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mixed</folder>
+	<filename>handwritten_image_15.png</filename>
+	<path>C:\Users\d.shukiraliyev\Desktop\Table_detection\data\mixed\handwritten_image_15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>878</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bordered</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>195</ymin>
+			<xmax>673</xmax>
+			<ymax>753</ymax>
+		</bndbox>
+	</object>
+</annotation>
